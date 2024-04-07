@@ -74,13 +74,15 @@ simple-form-vue
 - Revised: Changed some style and css errors and cleaned up unnessesary code. 
 - Outcome: I found the code to properly implement the css and formatting without having to majorly rehaul the structure of the code. 
 - Link: https://claude.ai/
-
 - Prompt: migrate the html file and implement the changes into a file called form.vue.
 - Follow-Up Questions: none this time, as this was a separte prompt from the one above. 
 - Revised: Cleaned up some unessesary code, and added a jsconfig file to solve an error. 
 - Outcome: I migrated the code in the part1-form-app.html to a form.vue file. 
 - Link: https://claude.ai/
-
 2. False positive errors at end-of-file
 - Link: https://github.com/vuejs/language-tools/issues/3942 
+3. Vuepress Vue Tip and Folder Structure
+- Link: https://stackoverflow.com/questions/68737750/vuepress-vue-tip-and-folder-structure
+4. Print Directory & File Structure with icons for representation in Markdown 
+- Link: https://stackoverflow.com/questions/19699059/print-directory-file-structure-with-icons-for-representation-in-markdown 
 ```
