@@ -5,6 +5,7 @@ based on the button the user clicks.
 
 
 ## Requirements
+```
 - Items displayed by loop.
 - Items can be tooggled.
 - Items can calculate total based on buttons.
@@ -15,17 +16,18 @@ based on the button the user clicks.
 - Github link is submitted.
 - No errors thrown. 
 - Final commit with message saying "Finished Part2". 
-
+```
 
 ## Structure  
+```
 simple-form-vue
-├─ .gitignore
-├─ jsconfig.json
+├─ .gitignore  
+├─ jsconfig.json  
 ├─ package-lock.json
 ├─ package.json
 ├─ vite.config.js
 ├─ readme.md
-└─ public 
+└─ public
    ├─ favicon.ico
 └─ simpleform
    ├─ part1-form-app.html
@@ -42,11 +44,11 @@ simple-form-vue
    |   |  └─ iconecosystem.vue
    |   |  └─ iconsupport.vue
    |   |  └─ icontooling.vue
-   |   |
    |   └─ form.vue
-
+```
 
 ## Timeline
+```
 3/8/2024 - start development
 - updates form.vue using claude 
 - changed html & formatting
@@ -62,9 +64,10 @@ simple-form-vue
 
 4/7/2024
 - clone to simple-form-vue on github
-
+```
 
 ## References & Citations
+```
 1. Claude 3 Opus
 - Prompt: complete the html file with the appropriate changes and the part1-form-app.html file was attached.
 - Follow-Up Questions: change the html file to meet the requirements set by this file
@@ -80,3 +83,4 @@ simple-form-vue
 
 2. False positive errors at end-of-file
 - Link: https://github.com/vuejs/language-tools/issues/3942 
+```
