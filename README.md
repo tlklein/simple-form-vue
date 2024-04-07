@@ -17,6 +17,35 @@ based on the button the user clicks.
 - Final commit with message saying "Finished Part2". 
 
 
+## Structure  
+simple-form-vue
+├─ .gitignore
+├─ jsconfig.json
+├─ package-lock.json
+├─ package.json
+├─ vite.config.js
+├─ readme.md
+└─ public 
+   ├─ favicon.ico
+└─ simpleform
+   ├─ part1-form-app.html
+└─ src
+   ├─ app.vue
+   ├─ main.js
+   ├─ assets
+   |   └─ base.css
+   |   └─ logo.svg
+   ├─components
+   |   ├─ icons
+   |   |  └─ iconcommunity.vue
+   |   |  └─ icondocumentation
+   |   |  └─ iconecosystem.vue
+   |   |  └─ iconsupport.vue
+   |   |  └─ icontooling.vue
+   |   |
+   |   └─ form.vue
+
+
 ## Timeline
 3/8/2024 - start development
 - updates form.vue using claude 
@@ -30,6 +59,10 @@ based on the button the user clicks.
 - create a new json file to resolve a false positive error
 - create comments in edited files
 - transfered part1-form-app.html functionality to form.vue
+
+4/7/2024
+- clone to simple-form-vue on github
+
 
 ## References & Citations
 1. Claude 3 Opus
