@@ -64,7 +64,7 @@ simple-form-vue
 - create comments in edited files
 - transfered part1-form-app.html functionality to form.vue
 
-4/7/2024
+4/7/2024-4/9/2024
 - clone to simple-form-vue on github
 ```
 
