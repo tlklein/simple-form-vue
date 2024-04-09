@@ -1,8 +1,10 @@
 # VUEJS Exercises
 
+
 This code is a simple form app in Vue, HTML, and JS. It is a form app that can calculate the total of facilities
 based on the button the user clicks. 
 
+![screenshot](stock-1.png)
 
 ## Requirements
 ```
