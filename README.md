@@ -29,7 +29,8 @@ Follow these steps to set up and run the Vue.js form application locally.
 - Basic knowledge of VueJS, HTML, and JavaScript
 - - Basic knowledge of npm, and git
 ### Setup
-- git clone https://www.github.com/tlklein/vuejs-form-app
+- git clone https://www.github.com/tlklein/vuejs-form-app  
+- cd simpleForm
 - npm run dev
 
 ## About the Author
