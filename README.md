@@ -33,7 +33,7 @@ Follow these steps to set up and run the Vue.js form application locally.
 - View or run in the browser via the HTML file in the folder called 'simpleForm'.
 
 ## About the Author
-This project was completed by Trinity Klein for the CIS 4339 course at the University of Houston under the guidance of Professor Xuqing Wu. 
+This project was completed by Trinity Klein for the **CIS 4339 Enterprise Applications Development** course at the University of Houston under the guidance of Professor Xuqing Wu. 
 
 ---
 
