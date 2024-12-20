@@ -26,12 +26,11 @@ This project is a simple form application built using **Vue.js**, **HTML**, and 
 Follow these steps to set up and run the Vue.js form application locally.
 
 ### Technologies
-- Basic knowledge of VueJS, HTML, and JavaScript
-- Basic knowledge of npm, and git
+- Basic knowledge of VueJS, HTML, and JavaScript.
+- Basic knowledge of npm, and git.
 ### Setup
-- git clone https://www.github.com/tlklein/vuejs-form-app
-- cd simpleForm
-- npm run dev
+- Install any requirements you may not have.
+- View or run in the browser via the HTML file in the folder called 'simpleForm'.
 
 ## About the Author
 This project was completed by Trinity Klein for the CIS 4339 course at the University of Houston under the guidance of Professor Xuqing Wu. 
